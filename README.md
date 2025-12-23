@@ -155,20 +155,6 @@ I don't just write code. I build solutions that solve real problems, drive user 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Afaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faaqi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faaqi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faaqi&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-</div>
-
----
-
 ## 🎯 What I Bring to Your Team
 
 ### For Startups & Product Companies
@@ -244,23 +230,7 @@ Since most of my production work is under NDA, I share:
 10K+   Active Users Across My Apps
 100%   Upwork Job Success Score
 11     Languages Supported in WalletGPT
-35%    Performance Improvement at SendCrypto
-50+    Critical Bugs Resolved
-100%   Test Coverage Achieved
-3      Continents of Remote Clients
 ```
-
----
-
-## 🎓 Education & Certifications
-
-**Bachelor of Science in Computer Science**  
-National University of Computer and Emerging Sciences (FAST-NUCES)  
-*2016 - 2021* | Islamabad, Pakistan
-
-**Certifications:**
-- ✅ Flutter Foundations Course - Code with Andrea
-- ✅ Flutter Developer Certification - Udemy
 
 ---
 
@@ -283,19 +253,6 @@ I'm always interested in:
 
 **For Quick Questions:**  
 💬 Upwork: [Top Rated Plus Profile](https://www.upwork.com/freelancers/afaqahmed14)
-
----
-
-## 🌟 Open Source & Community
-
-While most of my work is proprietary, I believe in giving back to the Flutter community:
-
-- 🌟 Star and contribute to Flutter packages I use
-- 💬 Answer questions on Stack Overflow and Reddit (r/FlutterDev)
-- 📝 Share knowledge through code samples and guides
-- 🤝 Mentor junior developers on their Flutter journey
-
-**Want to collaborate?** I'm always open to interesting open-source projects that align with my expertise.
 
 ---
 
