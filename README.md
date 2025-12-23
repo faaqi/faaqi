@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-afaq--ahmed.netlify.app-blue?style=for-the-badge&logo=google-chrome)](https://afaq-ahmed.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/afaq-ahmed-84b988128)
 [![Upwork](https://img.shields.io/badge/Upwork-100%25%20Success-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/afaqahmed14)
-[![Email](https://img.shields.io/badge/Email-messiafaq%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:afaq.ahmed7910@gmail.com)
+[![Email](https://img.shields.io/badge/Email-afaq.ahmed7910%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:afaq.ahmed7910@gmail.com)
 
 </div>
 
