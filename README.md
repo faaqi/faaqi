@@ -32,7 +32,7 @@ I don't just write code. I build solutions that solve real problems, drive user 
 
 ## 💼 Featured Work
 
-### 🤖 [WalletGPT](https://apps.apple.com/app/walletgpt/id6738601373) - AI-Powered Expense Tracker
+### 🤖 [WalletGPT](https://apps.apple.com/app/id6747127537) - AI-Powered Expense Tracker
 **Founder & Lead Developer** | *Currently Active*
 
 - 📊 **10,000+ downloads** across iOS and Android
@@ -59,7 +59,7 @@ I don't just write code. I build solutions that solve real problems, drive user 
 
 ---
 
-### 🥤 [Dr. Juice](https://apps.apple.com/us/app/dr-juice-natural-fruit-juice/id6755841157) - Health Ordering Platform
+### 🥤 [Dr. Juice](https://apps.apple.com/us/app/dr-juice-natural-fruit-juice/id6755841157) - Natural Fruit Juice
 **Full-Stack Lead** | *Client Project*
 
 - 📱 Designed and developed **iOS + Android apps** from scratch
@@ -95,7 +95,7 @@ I don't just write code. I build solutions that solve real problems, drive user 
 
 ---
 
-### 💰 [Frich](https://apps.apple.com/us/app/frich/id1573562913) - Social Savings App
+### 💰 [Frich](https://www.getfrich.com/) - Social Savings App
 **Associate Software Engineer** | *UtoR Digital*
 
 - 🎮 Built gamification features for Gen-Z savings challenges
@@ -246,7 +246,7 @@ I'm always interested in:
 ### 📬 Get in Touch
 
 **For Business Inquiries:**  
-📧 Email: messiafaq@gmail.com  
+📧 Email: afaq.ahmed7910@gmail.com 
 💼 LinkedIn: [linkedin.com/in/afaq-ahmed-84b988128](https://linkedin.com/in/afaq-ahmed-84b988128)  
 🌐 Portfolio: [afaq-ahmed.netlify.app](https://afaq-ahmed.netlify.app/)  
 📅 Schedule a Call: [Book 30-min consultation](https://calendly.com/afaq-ahmed7910/30min)
